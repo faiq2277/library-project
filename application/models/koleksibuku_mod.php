@@ -37,7 +37,7 @@ $data = array(
 'kode_buku' => $this->input->post('kode_buku'),
 'judul_buku' => $this->input->post('judul_buku'),
 'penulis' => $this->input->post('penulis'),
-'penerbit' => $this->input->post('penerbit')
+'penerbit' => $this->input->post('penerbit'),
 'tahun_terbit' => $this->input->post('tahun_terbit'),
 'kategori' => $this->input->post('kategori'),
 );
@@ -50,7 +50,7 @@ $data = array(
 'kode_buku' => $this->input->post('kode_buku'),
 'judul_buku' => $this->input->post('judul_buku'),
 'penulis' => $this->input->post('penulis'),
-'penerbit' => $this->input->post('penerbit')
+'penerbit' => $this->input->post('penerbit'),
 'tahun_terbit' => $this->input->post('tahun_terbit'),
 'kategori' => $this->input->post('kategori'),
 );

@@ -1,9 +1,9 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
  
-class Pegawai extends CI_Controller{
+class Koleksibuku_cont extends CI_Controller{
  
 function __construct(){
-parent::__construct();
+parent::__construct(); 
 $this->load->model('Koleksibuku_mod');
 }
  
